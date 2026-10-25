@@ -1,0 +1,32 @@
+[
+  {
+    "id": "C1",
+    "name": "Crew Alpha",
+    "skills": [
+      "Structural",
+      "Road"
+    ],
+    "available_hours": 6,
+    "max_tasks": 2
+  },
+  {
+    "id": "C2",
+    "name": "Crew Beta",
+    "skills": [
+      "Road",
+      "Building"
+    ],
+    "available_hours": 5,
+    "max_tasks": 2
+  },
+  {
+    "id": "C3",
+    "name": "Crew Gamma",
+    "skills": [
+      "Structural",
+      "Building"
+    ],
+    "available_hours": 5,
+    "max_tasks": 2
+  }
+]

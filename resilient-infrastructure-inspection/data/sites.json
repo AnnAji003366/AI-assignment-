@@ -1,0 +1,42 @@
+[
+  {
+    "id": "S1",
+    "name": "Central Bridge",
+    "type": "Bridge",
+    "severity": "High",
+    "duration": 3,
+    "required_skill": "Structural",
+    "priority": 3,
+    "location": "A"
+  },
+  {
+    "id": "S2",
+    "name": "Market Road",
+    "type": "Road",
+    "severity": "Medium",
+    "duration": 2,
+    "required_skill": "Road",
+    "priority": 2,
+    "location": "C"
+  },
+  {
+    "id": "S3",
+    "name": "Community Hall",
+    "type": "Building",
+    "severity": "Low",
+    "duration": 1,
+    "required_skill": "Building",
+    "priority": 1,
+    "location": "D"
+  },
+  {
+    "id": "S4",
+    "name": "River Bridge",
+    "type": "Bridge",
+    "severity": "High",
+    "duration": 2,
+    "required_skill": "Structural",
+    "priority": 3,
+    "location": "E"
+  }
+]

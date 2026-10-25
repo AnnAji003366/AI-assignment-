@@ -1,0 +1,42 @@
+[
+  {
+    "from": "A",
+    "to": "B",
+    "cost": 2
+  },
+  {
+    "from": "A",
+    "to": "C",
+    "cost": 5
+  },
+  {
+    "from": "B",
+    "to": "C",
+    "cost": 1
+  },
+  {
+    "from": "B",
+    "to": "D",
+    "cost": 4
+  },
+  {
+    "from": "C",
+    "to": "D",
+    "cost": 1
+  },
+  {
+    "from": "C",
+    "to": "E",
+    "cost": 5
+  },
+  {
+    "from": "D",
+    "to": "E",
+    "cost": 1
+  },
+  {
+    "from": "B",
+    "to": "E",
+    "cost": 7
+  }
+]
